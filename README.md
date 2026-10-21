@@ -732,6 +732,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Supabase](https://supabase.com) `https://mcp.supabase.com/mcp`
   [![Supabase MCP connector](https://glama.ai/mcp/connectors/com.supabase/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.supabase/mcp)
   🔐 - Manage Supabase projects, run SQL, and inspect schemas.
+- [Teable](https://teable.ai) `https://mcp.teable.ai/mcp`
+  [![Teable MCP connector](https://glama.ai/mcp/connectors/ai.teable.mcp/teable/badges/score.svg)](https://glama.ai/mcp/connectors/ai.teable.mcp/teable)
+  🔐 - Inspect tables and read or update business records in Teable, an AI spreadsheet for business.
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
